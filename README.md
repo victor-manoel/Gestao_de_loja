@@ -1,4 +1,4 @@
-Sistema de Gestão 
+# Sistema de Gestão 
 
-Sistema de Gestão criado para gerenciar uma loja de autopeças.
+## Sistema de Gestão criado para gerenciar uma loja de autopeças.
 
